@@ -24,6 +24,9 @@ Services
 - International Joint Conference on Neural Networks (IJCNN 2025)
 - International Conference on Neural Information Processing (ICONIP 2024)
 - IEEE International Transportation Systems Conference (ITSC 2022)
+- IEEE Transactions on Intelligent Vehicles
+- ACM Transactions on Computing for Healthcare
+- IEEE Internet of Things Journal
 
 ### Technical Program Committee
 - Artifact Evaluation Committee, ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2024/2025/2026)
