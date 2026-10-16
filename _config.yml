@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Baiting Luo"
 title_separator          : "-"
 name                     : &name "Baiting Luo"
-description              : &description "personal description"
+description              : &description "Baiting Luo, AI researcher. Ph.D. in Computer Science from Vanderbilt University. World models, reinforcement learning, and planning under uncertainty."
 url                      : https://baitingluo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "baitingluo/baitingluo.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Baiting Luo"
   pronouns         : # example: "she/her"  
-  bio              : " "
-  location         : "Nashville, TN"
-  employer         : "Vanderbilt University"
+  bio              : "AI Researcher · World Models · Reinforcement Learning · Planning under Uncertainty"
+  location         : "Mountain View, CA"
+  #employer         :
   #email            : "baiting.luo@vanderbilt.edu"
 
   # Academic websites
@@ -42,7 +42,7 @@ author:
   #bitbucket        : # Username - Update with your username on the site
   #codepen          : # Username
   #dribbble         : # Username
-  #github           : "academicpages"
+  github           : "BaitingLuo"
   #kaggle           : # Username
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
@@ -56,7 +56,7 @@ author:
 #  keybase          : # Username
 #  instagram        : # Username
 #  lastfm           : # Username
-#  linkedin         : # Username
+  linkedin         : "baiting-luo-phd-1b8615114"
 #  mastodon         : # URL
 #  medium           : # URL
 #  pinterest        : # Username
@@ -74,10 +74,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  worldmodels:
+    title: 'Planning with World Models and Learned Temporal Abstractions'
+  nsmdp:
+    title: 'Decision Making in Non-Stationary Environments'
+  pomdp:
+    title: 'Decision Making under Partial Observability'
   assurance:
     title: 'Runtime Safety Assurance of Autonomous Vehicles'
-  nsmdp:
-    title: 'Decision Making in Non-Stationary Environment'
   security:
     title: 'Securing Connected and Autonomous Vehicles'
 # Site Settings
