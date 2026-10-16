@@ -7,6 +7,7 @@ excerpt: 'This paper introduces Policy-Augmented Monte Carlo tree search (PA-MCT
 date: 2024-05-01
 venue: 'Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems'
 paperurl: 'https://arxiv.org/abs/2401.03197'
+codeurl: 'https://github.com/scope-lab-vu/PAMCTS'
 citation: 'Pettet, A., Zhang, Y., Luo, B., Wray, K., Baier, H., Laszka, A., Dubey, A., & Mukhopadhyay, A. (2024). &quot;Decision Making in Non-Stationary Environments with Policy-Augmented Search.&quot; <i>Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems</i>. 2417-2419.'
 ---
 

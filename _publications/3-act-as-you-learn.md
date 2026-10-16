@@ -7,6 +7,8 @@ excerpt: 'This paper presents a heuristic search algorithm called Adaptive Monte
 date: 2024-05-01
 venue: 'Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems'
 paperurl: 'https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1301.pdf'
+codeurl: 'https://github.com/scope-lab-vu/ADA-MCTS'
+award: 'Vanderbilt C.F. Chen Best Paper Runner-Up'
 citation: 'Luo, B., Zhang, Y., Dubey, A., & Mukhopadhyay, A. (2024). &quot;Act as You Learn: Adaptive Decision-Making in Non-Stationary Markov Decision Processes.&quot; <i>Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems</i>. 1301-1309.'
 ---
 

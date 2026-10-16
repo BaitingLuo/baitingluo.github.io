@@ -7,6 +7,7 @@ excerpt: 'This paper presents a risk-aware scene sampling approach for dynamic a
 date: 2022-05-01
 venue: '2022 IEEE International Conference on Assured Autonomy (ICAA)'
 paperurl: 'https://doi.org/10.1109/ICAA52185.2022.00022'
+codeurl: 'https://github.com/scope-lab-vu/Risk-Aware-Scene-Generation-CPS'
 citation: 'Ramakrishna, S., Luo, B., Barve, Y., Karsai, G., & Dubey, A. (2022). &quot;Risk-Aware Scene Sampling for Dynamic Assurance of Autonomous Systems.&quot; <i>2022 IEEE International Conference on Assured Autonomy (ICAA)</i>. 107-116.'
 ---
 

@@ -243,3 +243,16 @@
     }
   }
 }
+
+/* Award / highlight tag shown next to a publication venue */
+.archive__item-award {
+  display: inline-block;
+  margin-left: 0.25em;
+  padding: 0.1em 0.5em;
+  border-radius: 4px;
+  background-color: #fff3cd;
+  color: #7a5a00;
+  font-size: 0.75em;
+  font-weight: bold;
+  vertical-align: middle;
+}
