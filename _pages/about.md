@@ -14,7 +14,7 @@ Prior to my doctoral studies, I earned my M.S. in Computer Engineering from Nort
 
 News
 ======
-- **Jun 2026:** Started a new role as an AI researcher in Mountain View, California, working on world models for autonomy.
+- **Jun 2026:** Started a new role as an AI researcher at Toyota in Mountain View, California, working on world models and world action models for physical AI.
 - **Jun 2026:** Defended my Ph.D. dissertation, *Adaptive and Scalable AI-Driven Decision-Making for Cyber-Physical Systems*, at Vanderbilt University.
 - **Dec 2025:** Two papers at NeurIPS 2025: ESCORT (main track) and NS-Gym (Datasets and Benchmarks track).
 - **May 2025:** Started a research internship at Siemens on sample-efficient world action models (ARGO).
