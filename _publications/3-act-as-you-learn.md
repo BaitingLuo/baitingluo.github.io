@@ -5,6 +5,8 @@ category: nsmdp
 permalink: /publication/2024-act-as-you-learn
 excerpt: 'This paper presents a heuristic search algorithm called Adaptive Monte Carlo Tree Search (ADA-MCTS) for decision-making in non-stationary Markov decision processes.'
 date: 2024-05-01
+selected: true
+venue_short: 'AAMAS 2024'
 venue: 'Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems'
 paperurl: 'https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1301.pdf'
 codeurl: 'https://github.com/scope-lab-vu/ADA-MCTS'

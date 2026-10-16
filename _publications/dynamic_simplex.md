@@ -5,6 +5,8 @@ category: assurance
 permalink: /publication/2023-dynamic-simplex
 excerpt: 'This paper proposes a dynamic simplex strategy with online controller switching logic for balancing safety and performance in autonomous cyber-physical systems.'
 date: 2023-05-01
+selected: true
+venue_short: 'ICCPS 2023'
 venue: 'Proceedings of the ACM/IEEE 14th International Conference on Cyber-Physical Systems (with CPS-IoT Week 2023)'
 paperurl: 'https://doi.org/10.1145/3576841.3585934'
 codeurl: 'https://github.com/BaitingLuo/Dynamic_Simplex'

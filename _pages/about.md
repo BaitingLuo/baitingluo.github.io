@@ -12,25 +12,23 @@ I received my Ph.D. in Computer Science from Vanderbilt University in 2026, advi
 
 Prior to my doctoral studies, I earned my M.S. in Computer Engineering from Northwestern University, where I worked with [Prof. Qi Zhu](http://zhulab.ece.northwestern.edu/team.html) on securing connected and autonomous vehicles. My master's thesis on Sybil Attack Detection in VANET received the [Northwestern Best MS Computer Engineering Thesis Award](https://www.mccormick.northwestern.edu/electrical-computer/news-events/news/articles/2021/2021-ece-annual-awards-winners.html). I completed my B.S. in Computer Engineering with a dual degree in Computer Science from Rensselaer Polytechnic Institute. My research has been published at ICLR, NeurIPS, AAMAS, ICAPS, and ICCPS, and I have been honored with awards including the [Vanderbilt Provost's Pathbreaking Discovery Award](https://gradschool.vanderbilt.edu/student-resources/student-awards/) and the [Vanderbilt C.F. Chen Best Paper Runner-Up Award](https://www.linkedin.com/posts/institute-for-software-integrated-systems-vanderbilt-university_engineering-future-technology-activity-7194334972625784832-R1nS/).
 
-Services
+News
 ======
-### Conference & Journal Reviewer
-- International Conference on Learning Representations (ICLR 2026/2027)
-- The ACM Web Conference (WWW 2026)
-- Neural Information Processing Systems (NeurIPS 2025/2026)
-- Knowledge Discovery and Data Mining (KDD 2025/2026/2027)
-- International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)
-- International Joint Conference on Neural Networks (IJCNN 2025/2026)
-- International Conference on Neural Information Processing (ICONIP 2024)
-- IEEE International Transportation Systems Conference (ITSC 2022)
-- IEEE Transactions on Intelligent Vehicles
-- ACM Transactions on Computing for Healthcare
-- IEEE Internet of Things Journal
+- **Jun 2026:** Started a new role as an AI researcher in Mountain View, California, working on world models for autonomy.
+- **Jun 2026:** Defended my Ph.D. dissertation, *Adaptive and Scalable AI-Driven Decision-Making for Cyber-Physical Systems*, at Vanderbilt University.
+- **Dec 2025:** Two papers at NeurIPS 2025: ESCORT (main track) and NS-Gym (Datasets and Benchmarks track).
+- **May 2025:** Started a research internship at Siemens on sample-efficient world action models (ARGO).
+- **Apr 2025:** L-MAP appeared as a Spotlight paper at ICLR 2025 (top 5.1% of submissions).
+- **Mar 2025:** Received the Vanderbilt Provost's Pathbreaking Discovery Award.
+- **May 2024:** Act as You Learn (Adaptive MCTS) appeared at AAMAS 2024 and received Vanderbilt's C.F. Chen Best Paper Runner-Up Award.
 
-### Technical Program Committee
-- Artifact Evaluation Committee, ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2024/2025/2026)
-- International Conference on Data Mining and Big Data (DMBD 2024)
-
+Selected Publications
+======
+{% assign selected_pubs = site.publications | where: "selected", true | sort: "date" | reverse %}
+{% for pub in selected_pubs -%}
+- **[{{ pub.title }}]({{ pub.paperurl }})** · {{ pub.venue_short }}{% if pub.award %} <span class="archive__item-award">{{ pub.award }}</span>{% endif %}{% if pub.codeurl %} · [Code]({{ pub.codeurl }}){% endif %}
+{% endfor %}
+[See all publications.](publications)
 
 Research
 ======
@@ -61,3 +59,22 @@ I build decision-making systems that stay reliable when the world doesn't hold s
 - A credibility-enhanced temporal graph convolutional network for Sybil attack detection in connected-vehicle networks, and a dual cyber-physical blockchain framework for large-scale vehicular networks (IEEE IV 2021).
 
 [Find the publications for each of these projects.](publications)
+
+Services
+======
+### Conference & Journal Reviewer
+- International Conference on Learning Representations (ICLR 2026/2027)
+- The ACM Web Conference (WWW 2026)
+- Neural Information Processing Systems (NeurIPS 2025/2026)
+- Knowledge Discovery and Data Mining (KDD 2025/2026/2027)
+- International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)
+- International Joint Conference on Neural Networks (IJCNN 2025/2026)
+- International Conference on Neural Information Processing (ICONIP 2024)
+- IEEE International Transportation Systems Conference (ITSC 2022)
+- IEEE Transactions on Intelligent Vehicles
+- ACM Transactions on Computing for Healthcare
+- IEEE Internet of Things Journal
+
+### Technical Program Committee
+- Artifact Evaluation Committee, ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2024/2025/2026)
+- International Conference on Data Mining and Big Data (DMBD 2024)
