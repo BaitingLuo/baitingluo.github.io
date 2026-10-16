@@ -58,7 +58,7 @@ I build decision-making systems that stay reliable when the world doesn't hold s
 
 - A credibility-enhanced temporal graph convolutional network for Sybil attack detection in connected-vehicle networks, and a dual cyber-physical blockchain framework for large-scale vehicular networks (IEEE IV 2021).
 
-[Find the publications for each of these projects.](publications)
+[Find the publications for each of these projects](publications), and the code on the [Software](software) page.
 
 Services
 ======
